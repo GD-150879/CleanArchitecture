@@ -1,0 +1,14 @@
+C:\Users\jehangir.khan\source\repos\CleanApp\CleanApp.Domain\bin\Debug\net9.0\CleanApp.Domain.deps.json
+C:\Users\jehangir.khan\source\repos\CleanApp\CleanApp.Domain\bin\Debug\net9.0\CleanApp.Domain.runtimeconfig.json
+C:\Users\jehangir.khan\source\repos\CleanApp\CleanApp.Domain\bin\Debug\net9.0\CleanApp.Domain.dll
+C:\Users\jehangir.khan\source\repos\CleanApp\CleanApp.Domain\bin\Debug\net9.0\CleanApp.Domain.pdb
+C:\Users\jehangir.khan\source\repos\CleanApp\CleanApp.Domain\obj\Debug\net9.0\CleanApp.Domain.csproj.AssemblyReference.cache
+C:\Users\jehangir.khan\source\repos\CleanApp\CleanApp.Domain\obj\Debug\net9.0\CleanApp.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jehangir.khan\source\repos\CleanApp\CleanApp.Domain\obj\Debug\net9.0\CleanApp.Domain.AssemblyInfoInputs.cache
+C:\Users\jehangir.khan\source\repos\CleanApp\CleanApp.Domain\obj\Debug\net9.0\CleanApp.Domain.AssemblyInfo.cs
+C:\Users\jehangir.khan\source\repos\CleanApp\CleanApp.Domain\obj\Debug\net9.0\CleanApp.Domain.csproj.CoreCompileInputs.cache
+C:\Users\jehangir.khan\source\repos\CleanApp\CleanApp.Domain\obj\Debug\net9.0\CleanApp.Domain.dll
+C:\Users\jehangir.khan\source\repos\CleanApp\CleanApp.Domain\obj\Debug\net9.0\refint\CleanApp.Domain.dll
+C:\Users\jehangir.khan\source\repos\CleanApp\CleanApp.Domain\obj\Debug\net9.0\CleanApp.Domain.pdb
+C:\Users\jehangir.khan\source\repos\CleanApp\CleanApp.Domain\obj\Debug\net9.0\CleanApp.Domain.genruntimeconfig.cache
+C:\Users\jehangir.khan\source\repos\CleanApp\CleanApp.Domain\obj\Debug\net9.0\ref\CleanApp.Domain.dll

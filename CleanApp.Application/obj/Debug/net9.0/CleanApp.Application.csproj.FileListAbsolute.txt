@@ -1,0 +1,17 @@
+C:\Users\jehangir.khan\source\repos\CleanApp\CleanApp.Application\bin\Debug\net9.0\CleanApp.Application.deps.json
+C:\Users\jehangir.khan\source\repos\CleanApp\CleanApp.Application\bin\Debug\net9.0\CleanApp.Application.runtimeconfig.json
+C:\Users\jehangir.khan\source\repos\CleanApp\CleanApp.Application\bin\Debug\net9.0\CleanApp.Application.dll
+C:\Users\jehangir.khan\source\repos\CleanApp\CleanApp.Application\bin\Debug\net9.0\CleanApp.Application.pdb
+C:\Users\jehangir.khan\source\repos\CleanApp\CleanApp.Application\bin\Debug\net9.0\CleanApp.Domain.dll
+C:\Users\jehangir.khan\source\repos\CleanApp\CleanApp.Application\bin\Debug\net9.0\CleanApp.Domain.pdb
+C:\Users\jehangir.khan\source\repos\CleanApp\CleanApp.Application\obj\Debug\net9.0\CleanApp.Application.csproj.AssemblyReference.cache
+C:\Users\jehangir.khan\source\repos\CleanApp\CleanApp.Application\obj\Debug\net9.0\CleanApp.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jehangir.khan\source\repos\CleanApp\CleanApp.Application\obj\Debug\net9.0\CleanApp.Application.AssemblyInfoInputs.cache
+C:\Users\jehangir.khan\source\repos\CleanApp\CleanApp.Application\obj\Debug\net9.0\CleanApp.Application.AssemblyInfo.cs
+C:\Users\jehangir.khan\source\repos\CleanApp\CleanApp.Application\obj\Debug\net9.0\CleanApp.Application.csproj.CoreCompileInputs.cache
+C:\Users\jehangir.khan\source\repos\CleanApp\CleanApp.Application\obj\Debug\net9.0\CleanApp.A56D2746.Up2Date
+C:\Users\jehangir.khan\source\repos\CleanApp\CleanApp.Application\obj\Debug\net9.0\CleanApp.Application.dll
+C:\Users\jehangir.khan\source\repos\CleanApp\CleanApp.Application\obj\Debug\net9.0\refint\CleanApp.Application.dll
+C:\Users\jehangir.khan\source\repos\CleanApp\CleanApp.Application\obj\Debug\net9.0\CleanApp.Application.pdb
+C:\Users\jehangir.khan\source\repos\CleanApp\CleanApp.Application\obj\Debug\net9.0\CleanApp.Application.genruntimeconfig.cache
+C:\Users\jehangir.khan\source\repos\CleanApp\CleanApp.Application\obj\Debug\net9.0\ref\CleanApp.Application.dll
